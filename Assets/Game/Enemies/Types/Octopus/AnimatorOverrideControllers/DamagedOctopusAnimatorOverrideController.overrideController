@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DamagedOctopusAnimatorOverrideController
+  m_Controller: {fileID: 9100000, guid: e09886efd35e4694691c25c279c4b6ba, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e8784ecce9be9b64e97664d02877f906, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 86300936c6beb7c4aa42198080aad060, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 29cc093bf53ddcf4a9f38db8e0e61d1e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 29cc093bf53ddcf4a9f38db8e0e61d1e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b92a2770065983c448cea56c6593d159, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7c360241272b37f48ad5cfe19fa7d28e, type: 2}
